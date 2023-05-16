@@ -34,7 +34,6 @@ Features/ Additional Features:
 - The basic code is written in Python
 - The puzzle has 5 clues, 2 dead-ends and 1 solution.
 - On refreshing, from either browser or website, the puzzle should start from the same step or give the user an option to restart.
-- The background image, player image and background music are also added for thrilling experience to find the treasure.
 
 Test Cases:
 I. If the player is able to reach the treasure by using limited number of clues, they will get the message that they had found the treasure.
