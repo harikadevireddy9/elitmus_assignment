@@ -24,7 +24,7 @@ All possible ways to solve the puzzle:
  
 Steps to set up the project:
 - The code for the project is written in python.
-- Pygame is used to launch this game in python
+- Json is used to launch this game in python
 - First the user should enter their email address and a password to play this game.
 - Once the user has left the game the game will resume their game and have an option to restart.
 - Every movement of the player will be noticed which calculated the score of the player.
